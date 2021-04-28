@@ -1,0 +1,5 @@
+#include <math.h> //v javinem direktoriju
+parameter -lm (knjiznici je ime m)
+gcc {ime}.c -lm
+
+#include "nekineki.h" //ta kniznica se nahaja v nasem directoriju
