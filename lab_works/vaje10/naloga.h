@@ -1,4 +1,3 @@
-
 typedef struct Vozlisce Vozlisce;
 
 struct Vozlisce {
