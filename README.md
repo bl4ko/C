@@ -2,7 +2,7 @@
 
 My work from college classes: 
 - homeworks
-- lab exercises
+- lab_work
 - exercises from lectures
 - additional exercises
 
