@@ -4,7 +4,7 @@
 * Datoteka je __zaporedje bytov__(STREAM) shranjenih na disku.
 * v C za datoteko uporabljamo podatkovni tip __FILE__
 * Struktura FILE vsebuje podatke kako priti do datoteke na disku.
-    * Datoteko povezemo z funkcijo ```fopen(char* pathName, char* mode)```
+    * Datoteko povezemo z funkcijo ```FILE* fopen(char* pathName, char* mode)```
 > Opomba: argument __mode__ pove "nacin" odpiranja datoteke: 
 > | char* mode      | Description |
 > | ----------- | ----------- |
