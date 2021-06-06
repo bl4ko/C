@@ -1,0 +1,9 @@
+vrstice[0]=domaca ...
+vrstice[1]=draga vas
+vrstice[2]=srecna,
+vrstice[3]=O, Vrba!
+
+vrstice[3]=O, Vrba!
+vrstice[2]=srecna,
+vrstice[1]=draga vas
+vrstice[0]=domaca ...
