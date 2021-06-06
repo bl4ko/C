@@ -26,7 +26,7 @@
 
     ```C
     if (input == NULL) {
-        printf("ERROR!\N"); 
+        printf("ERROR!\n"); 
         return 1;
     }
     ```
