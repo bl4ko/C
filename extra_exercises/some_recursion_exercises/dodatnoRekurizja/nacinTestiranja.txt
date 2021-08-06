@@ -1,9 +1,0 @@
-naloga.h vezni clen med <test.c> in <naloga.clen>
-
-//-e = sistem zacne izvajat program pri __main__
-gcc -e __main__ -o test04 test04.c naloga.c
-
-
-TESTIRANJE Z MAKE FILE
-export name=naloga
-/make test P=x-y
